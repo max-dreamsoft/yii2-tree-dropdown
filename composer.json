@@ -1,8 +1,8 @@
 {
-    "name": "insperedia/yii2-tree-dropdown",
+    "name": "max-dreamsoft/yii2-tree-dropdown",
     "description": "A dropdown widget containing expandable treeview with checkboxes",
     "keywords": ["yii2", "extension", "widget", "dropdown", "tree", "checkbox"],
-    "homepage": "https://github.com/insperedia/yii2-tree-dropdown",
+    "homepage": "https://github.com/max-dreamsoft/yii2-tree-dropdown",
     "type": "yii2-extension",
     "license": "BSD 3-Clause",
     "authors": [
@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "insperedia\\treedropdown\\": ""
+            "max-dreamsoft\\treedropdown\\": ""
         }
     }
 }
